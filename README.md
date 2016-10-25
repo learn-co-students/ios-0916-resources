@@ -23,9 +23,9 @@ To add links, edit this `README.md` file and use the example links as guides. Fo
 
 ### Writing Blog Posts
 
-[https://medium.freecodecamp.com/a-style-guide-for-writing-on-medium-fcbad27492ea#.b0dsdemof] - A style guide for writing on Medium (Great for writing blog posts in general)
+[A style guide for writing on Medium](https://medium.freecodecamp.com/a-style-guide-for-writing-on-medium-fcbad27492ea#.b0dsdemof) - Great for writing blog posts in general
 
-[https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8#.ks3i5ceyl] - Also a really good read when it comes to writing blog posts!
+[How to write Medium stories people will actually read](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8#.ks3i5ceyl) - Also a really good read when it comes to writing blog posts
 
 [Learn.co](https://learn.co) - Starting point for learning to program.
 
